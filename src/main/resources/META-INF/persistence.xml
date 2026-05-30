@@ -15,7 +15,7 @@
             <property name="hibernate.show_sql" value="true" />
             <property name="hibernate.format_sql" value="true" />
             <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver" />
-            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/hiber9dev?serverTimezone=UTC" />
+            <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3307/hiber9dev?serverTimezone=UTC" />
             <!--            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" />-->
             <property name="hibernate.connection.username" value="manos" />
             <property name="hibernate.connection.password" value="12345" />
